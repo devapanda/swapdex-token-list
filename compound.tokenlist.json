@@ -169,7 +169,8 @@
       "address": "0x041fdd6637eCfD96af8804278AC12660ac2D12c0",
       "name": "SwapDEX",
       "symbol": "SDX",
-      "decimals": 7
+      "decimals": 7,
+      "logoURI": "https://github.com/devapanda/swapdex-token-list/blob/master/assets/sdx.png"
     },
     {
       "name": "Wrapped Ether",
